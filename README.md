@@ -8,16 +8,22 @@ Hiarchie Projet
 
 |--domain
         --Account
+        
         --Amount
+        
         --Operation
         
         
 |--utils
+
        --OperationType
        
        
+       
 AccountBalance
+
 AccountStatement
+
 OperationStatement
 
 US 1:
