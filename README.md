@@ -10,8 +10,12 @@ Hiarchie Projet
         --Account
         --Amount
         --Operation
+        
+        
 |--utils
        --OperationType
+       
+       
 AccountBalance
 AccountStatement
 OperationStatement
